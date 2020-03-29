@@ -52,3 +52,6 @@
 # Delphi history and backups
 __history/
 *.~*
+
+#Local Changes: Ignore local VCS settings
+.vscode/
