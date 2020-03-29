@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="60" height="25"
 >
-  <text font-size="11" x="10" y="20">
+  <text font-size="14" x="10" y="20">
     <tspan fill="green">файл.py</tspan>
   </text>
 </svg>
